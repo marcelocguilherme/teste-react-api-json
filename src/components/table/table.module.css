@@ -1,0 +1,41 @@
+/* .theadDark {
+  background-color: #222222;
+  color: white;
+  height: 60px;
+  display: flex;
+
+  border: 0;/*  */
+}
+.theadDark tr {
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 0px;
+}
+thead tr {
+  color: yellow;
+  padding: 0px;
+  margin: 0px;
+  width: 150px;
+}
+.tds tds {
+  display: table-cell;
+  margin-left: 35px;
+  padding-left: 35px;
+}
+.td1 {
+  width: 300px;
+  background-color: green;
+  text-align: center;
+}
+
+.td2 {
+  width: 300px;
+  background-color: darkviolet;
+  text-align: center;
+}
+.td3 {
+  width: 300px;
+  background-color: blue;
+  text-align: center;
+}
+ */
