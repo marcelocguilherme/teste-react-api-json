@@ -1,10 +1,10 @@
-/* .theadDark {
+.theadDark {
   background-color: #222222;
   color: white;
   height: 60px;
   display: flex;
 
-  border: 0;/*  */
+  border: 0;
 }
 .theadDark tr {
   align-items: center;
@@ -38,4 +38,3 @@ thead tr {
   background-color: blue;
   text-align: center;
 }
- */

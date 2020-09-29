@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Card from './Card'
+
 import css from './cardsAlbum.module.css'
 import { retornaToDosUsers } from '../../helpers/getData'
 import CardToDo from './CardToDo'

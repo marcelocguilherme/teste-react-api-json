@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom'
 import css from './menu.module.css'
 import TableAlbums from '../table/TableAlbums'
 
-import logo from '../../assets/img/frwkLogo.png';
+import logo from '../../assets/img/logo_uniss_2020.svg';
 import CardsPosts from '../cards/CardsPosts';
 import CardsToDos from '../cards/CardsToDos';
 
@@ -43,9 +43,12 @@ export default class Menu extends Component {
 
 
 
+
               </div>
             </div>
           </nav>
+          <hr />
+
           <Switch>
             <Route path="/Albums">
               <Albums />
@@ -67,7 +70,7 @@ export default class Menu extends Component {
   }
 }
 function Home() {
-  return <div className='bg-light text-dark mt-5 pt-5'>
+  return <div className=' text-dark mt-5 pt-5'>
     <h2 className="text-center"> Teste de React + API JSON</h2>
     <h3 className="text-center">
       Marcelo César Guilherme

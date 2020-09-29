@@ -24,7 +24,7 @@ export default class TableAlbums extends Component {
   render() {
     const { albums } = this.state
     return (
-      <div className='bg-light pt-5'>
+      <div className='pt-5'>
 
         <div className='container' >
           <table className="table table-hover text-center">
